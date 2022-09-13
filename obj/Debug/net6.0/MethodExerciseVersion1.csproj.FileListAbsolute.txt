@@ -1,0 +1,15 @@
+/Users/jeremijackson/Desktop/Repos/MethodExerciseVersion1/MethodExerciseVersion1/obj/Debug/net6.0/MethodExerciseVersion1.csproj.AssemblyReference.cache
+/Users/jeremijackson/Desktop/Repos/MethodExerciseVersion1/MethodExerciseVersion1/obj/Debug/net6.0/MethodExerciseVersion1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeremijackson/Desktop/Repos/MethodExerciseVersion1/MethodExerciseVersion1/obj/Debug/net6.0/MethodExerciseVersion1.AssemblyInfoInputs.cache
+/Users/jeremijackson/Desktop/Repos/MethodExerciseVersion1/MethodExerciseVersion1/obj/Debug/net6.0/MethodExerciseVersion1.AssemblyInfo.cs
+/Users/jeremijackson/Desktop/Repos/MethodExerciseVersion1/MethodExerciseVersion1/obj/Debug/net6.0/MethodExerciseVersion1.csproj.CoreCompileInputs.cache
+/Users/jeremijackson/Desktop/Repos/MethodExerciseVersion1/MethodExerciseVersion1/bin/Debug/net6.0/MethodExerciseVersion1
+/Users/jeremijackson/Desktop/Repos/MethodExerciseVersion1/MethodExerciseVersion1/bin/Debug/net6.0/MethodExerciseVersion1.deps.json
+/Users/jeremijackson/Desktop/Repos/MethodExerciseVersion1/MethodExerciseVersion1/bin/Debug/net6.0/MethodExerciseVersion1.runtimeconfig.json
+/Users/jeremijackson/Desktop/Repos/MethodExerciseVersion1/MethodExerciseVersion1/bin/Debug/net6.0/MethodExerciseVersion1.dll
+/Users/jeremijackson/Desktop/Repos/MethodExerciseVersion1/MethodExerciseVersion1/bin/Debug/net6.0/MethodExerciseVersion1.pdb
+/Users/jeremijackson/Desktop/Repos/MethodExerciseVersion1/MethodExerciseVersion1/obj/Debug/net6.0/MethodExerciseVersion1.dll
+/Users/jeremijackson/Desktop/Repos/MethodExerciseVersion1/MethodExerciseVersion1/obj/Debug/net6.0/refint/MethodExerciseVersion1.dll
+/Users/jeremijackson/Desktop/Repos/MethodExerciseVersion1/MethodExerciseVersion1/obj/Debug/net6.0/MethodExerciseVersion1.pdb
+/Users/jeremijackson/Desktop/Repos/MethodExerciseVersion1/MethodExerciseVersion1/obj/Debug/net6.0/MethodExerciseVersion1.genruntimeconfig.cache
+/Users/jeremijackson/Desktop/Repos/MethodExerciseVersion1/MethodExerciseVersion1/obj/Debug/net6.0/ref/MethodExerciseVersion1.dll
